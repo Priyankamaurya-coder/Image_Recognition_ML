@@ -1,14 +1,18 @@
 # Image_Recognition_ML 
-This project is built using deep learning,CNNs,tensorflow,google colab,kaggles datasets and Ml
 Image Recognition is a hands-on, project-based journey into modern computer vision. Built and tested entirely in Google Colab , this project includes 5 days bootcamp that covers:
 
 Day 1: Dataset download, MNIST & CIFAR-10 exploration, preprocessing, and visualization
+
 Day 2: Building and training a CNN from scratch (TensorFlow/Keras)
+
 Day 3: Data augmentation, batch normalization, and advanced model training
+
 Day 4: Transfer learning with MobileNetV2 on Cats vs. Dogs dataset (Kaggle)
+
 Day 5: Model evaluation, ROC/AUC, deployment tips
 
 Why This Project?
+
 1).High-Demand Skill
 Computer vision is one of the fastest-growing fields in AI.
 Skills in CNNs, image classification, and transfer learning are highly valued in industries like healthcare, retail, and autonomous vehicles.
