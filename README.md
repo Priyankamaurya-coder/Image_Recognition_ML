@@ -33,45 +33,39 @@ Builds a complete skill pipeline from beginner to capable practitioner.
 Concepts learned here apply to other computer vision tasks like object detection, facial recognition, and medical imaging analysis.
 
 key features:
+1)Download and preprocess Kaggle datasets (MNIST, CIFAR-10, Cats & Dogs)
 
-*Download and preprocess Kaggle datasets (MNIST, CIFAR-10, Cats & Dogs)
+2)Visualize datasets with Matplotlib
 
-*Visualize datasets with Matplotlib
+3)Build, train, and evaluate custom CNNs with Keras
 
-*Build, train, and evaluate custom CNNs with Keras
+4)Implement data augmentation and batch normalization
 
-*Implement data augmentation and batch normalization
+5)Apply transfer learning (MobileNetV2)
 
-*Apply transfer learning (MobileNetV2)
+6)Model evaluation: confusion matrix, classification report, ROC/AUC
 
-*Model evaluation: confusion matrix, classification report, ROC/AUC
-
-*Includes code for saving, loading, and deploying models
+7)Includes code for saving, loading, and deploying models
 
 Highlights:
 
-*Accuracy on MNIST: >99%
+1.Accuracy on MNIST: >99%
 
-*Accuracy on CIFAR-10: ~69%
+2.Accuracy on CIFAR-10: ~69%
 
-*Cats vs. Dogs (Transfer Learning): ~88% training accuracy
+3.Cats vs. Dogs (Transfer Learning): ~88% training accuracy
 
-*Visualization: Sample predictions, confusion matrix, ROC curves
+4.Visualization: Sample predictions, confusion matrix, ROC curves
 
 Skills Demonstrated:
-*Deep Learning / CNNs
 
-*Data preprocessing & augmentation
-
-*Model evaluation & visualization
-
-*Transfer learning (fine-tuning)
-
-*TensorFlow / Keras
-
-*Google Colab & Kaggle integration
-
-*Git version control
+Deep Learning / CNNs
+Data preprocessing & augmentation
+Model evaluation & visualization
+Transfer learning (fine-tuning)
+TensorFlow / Keras
+Google Colab & Kaggle integration
+Git version control
 
 
 Through this project, I transformed raw image datasets into accurate, high-performing recognition models, mastering data preparation, CNN architecture design, model optimization, and evaluation techniques. Beyond technical skills, it strengthened my ability to work through the entire ML lifecycle, from concept to deployment readiness. I’m motivated to extend these skills into larger, more complex AI applications that create real-world impact.
