@@ -33,6 +33,7 @@ Builds a complete skill pipeline from beginner to capable practitioner.
 Concepts learned here apply to other computer vision tasks like object detection, facial recognition, and medical imaging analysis.
 
 key features:
+
 1)Download and preprocess Kaggle datasets (MNIST, CIFAR-10, Cats & Dogs)
 
 2)Visualize datasets with Matplotlib
@@ -59,13 +60,13 @@ Highlights:
 
 Skills Demonstrated:
 
-Deep Learning / CNNs
-Data preprocessing & augmentation
-Model evaluation & visualization
-Transfer learning (fine-tuning)
-TensorFlow / Keras
-Google Colab & Kaggle integration
-Git version control
+Deep Learning / CNNs,
+Data preprocessing & augmentation,
+Model evaluation & visualization,
+Transfer learning (fine-tuning),
+TensorFlow / Keras,
+Google Colab & Kaggle integration,
+Git version control.
 
 
 Through this project, I transformed raw image datasets into accurate, high-performing recognition models, mastering data preparation, CNN architecture design, model optimization, and evaluation techniques. Beyond technical skills, it strengthened my ability to work through the entire ML lifecycle, from concept to deployment readiness. I’m motivated to extend these skills into larger, more complex AI applications that create real-world impact.
